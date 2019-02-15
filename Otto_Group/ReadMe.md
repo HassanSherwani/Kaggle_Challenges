@@ -1,4 +1,4 @@
-# Problem statement <br>
+# Otto Group Product Classification Challenge <br>
 
 Analysis of the performance of Otto Groups' products. 
 
