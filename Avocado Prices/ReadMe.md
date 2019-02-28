@@ -1,6 +1,6 @@
 # Avocado Prices <br>
 
-istorical data on avocado prices and sales volume in multiple US markets
+Historical data on avocado prices and sales volume in multiple US markets
 
 # Dataset <br>
 
