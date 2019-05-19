@@ -2,7 +2,7 @@
 
 Set of projects using data from Kaggle
 
-# Project Lists
+# List 
 
 - Avocado Prices:Historical data on avocado prices and sales volume in multiple US markets
 
@@ -51,6 +51,30 @@ https://www.kaggle.com/c/twitter-sentiment-analysis-self-driving-cars/data
 - Smart City traffic patterns:to understand the traffic patterns of the four junctions of the city
 
 https://www.kaggle.com/utathya/smart-city-traffic-patterns
+
+- Titanic: Machine Learning from Disaster
+
+https://www.kaggle.com/c/titanic/overview
+
+- Twitter US Airline Sentiment
+
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment/home
+
+- US Minimum Wage by State from 1968 to 2017
+
+https://www.kaggle.com/stevepalley/2016uspresidentialvotebycounty
+
+- 2016 US Presidential Election Vote By County
+
+https://www.kaggle.com/stevepalley/2016uspresidentialvotebycounty
+
+- Fashion MNIST: An MNIST-like dataset of 70,000 28x28 labeled fashion images
+
+https://www.kaggle.com/zalando-research/fashionmnist/home
+
+- Yelp Reviews Dataset: Text Classifier 
+
+https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset
 
 
 
