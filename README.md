@@ -8,6 +8,10 @@ Set of projects using data from Kaggle
 
 https://www.kaggle.com/neuromusic/avocado-prices/home
 
+- Appliance Energy Prediction
+
+https://www.kaggle.com/msand1984/appliance-energy-prediction/data
+
 - Bag of Words Meets Bags of Popcorn:Use Google's Word2Vec for movie reviews
 
 https://www.kaggle.com/c/word2vec-nlp-tutorial
