@@ -1,4 +1,4 @@
-# Air Passengers prediction
+# Air Passengers forecasting
 
 Number of air passengers per month
 
