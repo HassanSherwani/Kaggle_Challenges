@@ -4,6 +4,10 @@ Set of projects using data from Kaggle
 
 # List 
 
+- Air Passengers prediction per month
+
+https://www.kaggle.com/rakannimer/air-passengers
+
 - Avocado Prices:Historical data on avocado prices and sales volume in multiple US markets
 
 https://www.kaggle.com/neuromusic/avocado-prices/home
