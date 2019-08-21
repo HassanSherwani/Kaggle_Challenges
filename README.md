@@ -4,7 +4,7 @@ Set of projects using data from Kaggle
 
 # List 
 
-- Air Passengers prediction per month
+- Air Passengers forecasting per month
 
 https://www.kaggle.com/rakannimer/air-passengers
 
