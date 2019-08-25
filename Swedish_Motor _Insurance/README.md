@@ -1,6 +1,6 @@
 # Swedish Motor Insurance
 
-Predict how frequent claims are for car insurance
+Predict how often insurance claims are made
 
 # Dataset
 
@@ -9,3 +9,7 @@ This dataset is used in Ewards W. Frees' book "Regression Modeling with Actuaria
 Dataset can be found from :
 
 https://www.kaggle.com/floser/swedish-motor-insurance
+
+# Modules
+
+pandas, numpy, scipy, statsmodel, h2o, matplotlib, seaborn
