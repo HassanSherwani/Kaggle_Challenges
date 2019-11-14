@@ -60,27 +60,31 @@ https://www.kaggle.com/c/twitter-sentiment-analysis-self-driving-cars/data
 
 https://www.kaggle.com/utathya/smart-city-traffic-patterns
 
-- 15)- Titanic: Machine Learning from Disaster
+- 15)- Swedish Motor Insurance prediction
+
+https://www.kaggle.com/floser/swedish-motor-insurance
+
+- 16)- Titanic: Machine Learning from Disaster
 
 https://www.kaggle.com/c/titanic/overview
 
-- 16)- Twitter US Airline Sentiment
+- 17)- Twitter US Airline Sentiment
 
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment/home
 
-- 17)- US Minimum Wage by State from 1968 to 2017
+- 18)- US Minimum Wage by State from 1968 to 2017
 
 https://www.kaggle.com/stevepalley/2016uspresidentialvotebycounty
 
-- 18)- 2016 US Presidential Election Vote By County
+- 19)- 2016 US Presidential Election Vote By County
 
 https://www.kaggle.com/stevepalley/2016uspresidentialvotebycounty
 
-- 19)- Fashion MNIST: An MNIST-like dataset of 70,000 28x28 labeled fashion images
+- 20)- Fashion MNIST: An MNIST-like dataset of 70,000 28x28 labeled fashion images
 
 https://www.kaggle.com/zalando-research/fashionmnist/home
 
-- 20)- Yelp Reviews Dataset: Text Classifier 
+- 21)- Yelp Reviews Dataset: Text Classifier 
 
 https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset
 
