@@ -48,6 +48,10 @@ https://www.kaggle.com/c/otto-group-product-classification-challenge
 
 https://www.kaggle.com/uspto/patent-assignment-daily
 
+12)- Personalized Medicine: Redefining Cancer Treatment
+
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+
 - 12)- Pima Indians Diabetes Database: Predict the onset of diabetes based on diagnostic measures
 
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
