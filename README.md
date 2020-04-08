@@ -56,6 +56,10 @@ https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
+- 13)- Personalized Medicine: Redefining Cancer Treatment
+
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+
 - 13)- Twitter sentiment analysis: Self-driving cars
 
 https://www.kaggle.com/c/twitter-sentiment-analysis-self-driving-cars/data
