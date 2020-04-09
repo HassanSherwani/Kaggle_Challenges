@@ -5,5 +5,5 @@ Predict the effect of Genetic Variants to enable Personalized Medicine
 
 # Content
 
-Notebook1:
+- Notebook1: Basic Model implementation 
 Notebook2:
