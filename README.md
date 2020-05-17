@@ -48,51 +48,51 @@ https://www.kaggle.com/c/otto-group-product-classification-challenge
 
 https://www.kaggle.com/uspto/patent-assignment-daily
 
-12)- Personalized Medicine: Redefining Cancer Treatment
+- 12)- Personalized Medicine: Redefining Cancer Treatment
 
 https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
-- 12)- Pima Indians Diabetes Database: Predict the onset of diabetes based on diagnostic measures
+- 13)- Pima Indians Diabetes Database: Predict the onset of diabetes based on diagnostic measures
 
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-- 13)- Personalized Medicine: Redefining Cancer Treatment
+- 14)- Personalized Medicine: Redefining Cancer Treatment
 
 https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
-- 13)- Twitter sentiment analysis: Self-driving cars
+- 15)- Twitter sentiment analysis: Self-driving cars
 
 https://www.kaggle.com/c/twitter-sentiment-analysis-self-driving-cars/data
 
-- 14)- Smart City traffic patterns:to understand the traffic patterns of the four junctions of the city
+- 16)- Smart City traffic patterns:to understand the traffic patterns of the four junctions of the city
 
 https://www.kaggle.com/utathya/smart-city-traffic-patterns
 
-- 15)- Swedish Motor Insurance prediction
+- 17)- Swedish Motor Insurance prediction
 
 https://www.kaggle.com/floser/swedish-motor-insurance
 
-- 16)- Titanic: Machine Learning from Disaster
+- 18)- Titanic: Machine Learning from Disaster
 
 https://www.kaggle.com/c/titanic/overview
 
-- 17)- Twitter US Airline Sentiment
+- 19)- Twitter US Airline Sentiment
 
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment/home
 
-- 18)- US Minimum Wage by State from 1968 to 2017
+- 20)- US Minimum Wage by State from 1968 to 2017
 
 https://www.kaggle.com/stevepalley/2016uspresidentialvotebycounty
 
-- 19)- 2016 US Presidential Election Vote By County
+- 21)- 2016 US Presidential Election Vote By County
 
 https://www.kaggle.com/stevepalley/2016uspresidentialvotebycounty
 
-- 20)- Fashion MNIST: An MNIST-like dataset of 70,000 28x28 labeled fashion images
+- 22)- Fashion MNIST: An MNIST-like dataset of 70,000 28x28 labeled fashion images
 
 https://www.kaggle.com/zalando-research/fashionmnist/home
 
-- 21)- Yelp Reviews Dataset: Text Classifier 
+- 23)- Yelp Reviews Dataset: Text Classifier 
 
 https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset
 
