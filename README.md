@@ -92,7 +92,9 @@ https://www.kaggle.com/stevepalley/2016uspresidentialvotebycounty
 
 https://www.kaggle.com/zalando-research/fashionmnist/home
 
-- 23)- Yelp Reviews Dataset: Text Classifier 
+- 23)- Women's_E-Commerce_Clothing_Review
+
+- 24)- Yelp Reviews Dataset: Text Classifier 
 
 https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset
 
