@@ -1,6 +1,6 @@
 # Kaggle_Challenges
 
-Set of projects using data from Kaggle
+Couple of projects based on Kaggle challenges
 
 # List of Projects
 
