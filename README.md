@@ -94,6 +94,8 @@ https://www.kaggle.com/zalando-research/fashionmnist/home
 
 - 23)- Women's_E-Commerce_Clothing_Review
 
+https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+
 - 24)- Yelp Reviews Dataset: Text Classifier 
 
 https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset
