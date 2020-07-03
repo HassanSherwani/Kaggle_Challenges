@@ -1,0 +1,1 @@
+Dataset contains wide variety of topics to train your model with . The bot will get info about various fields. Though you need huge dataset to create a fully fledged bot but it is suitable for starters
