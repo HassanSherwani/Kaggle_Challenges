@@ -4,6 +4,9 @@ Using encoder-decoder framework.
 
 # Data Source 
 
+
+Dataset contains wide variety of topics to train your model with . The bot will get info about various fields. Though you need huge dataset to create a fully fledged bot but it is suitable for starters
+
 - https://www.kaggle.com/kausr25/chatterbotenglish
 
 # Modules
@@ -20,6 +23,3 @@ pandas, numpy, tensorflow, keras
 - https://github.com/shubham0204/Dataset_Archives/blob/master/chatbot_nlp_processed.zip
 - https://www.youtube.com/watch?v=Xg2wOBU9v90&list=PLTuKYqpidPXbulRHl8HL7JLRQXwDlqpLO
 - attention: https://www.kaggle.com/programminghut/seq2seq-chatbot-keras-with-attention
-
-
-Dataset contains wide variety of topics to train your model with . The bot will get info about various fields. Though you need huge dataset to create a fully fledged bot but it is suitable for starters
