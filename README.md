@@ -96,7 +96,7 @@ https://www.kaggle.com/zalando-research/fashionmnist/home
 
 https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
--24)- AI Chatterbot in English
+- 24)- AI Chatterbot in English
 
 https://www.kaggle.com/kausr25/chatterbotenglish
 
