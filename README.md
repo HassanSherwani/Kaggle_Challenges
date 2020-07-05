@@ -96,7 +96,11 @@ https://www.kaggle.com/zalando-research/fashionmnist/home
 
 https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
-- 24)- Yelp Reviews Dataset: Text Classifier 
+-24)- AI Chatterbot in English
+
+https://www.kaggle.com/kausr25/chatterbotenglish
+
+- 25)- Yelp Reviews Dataset: Text Classifier 
 
 https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset
 
